@@ -1,0 +1,9 @@
+.row {
+  display: flex;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#delete {
+  color: red;
+}
